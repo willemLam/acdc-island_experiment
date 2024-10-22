@@ -1,4 +1,4 @@
-# acdc-island_experiment
+# ACDC-AFE
 
 
 
@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.epfl.ch/lambrich/acdc-island_experiment.git
+git remote add origin https://gitlab.epfl.ch/desl/acdc-afe.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://gitlab.epfl.ch/lambrich/acdc-island_experiment/-/settings/integrations)
+- [ ] [Set up project integrations](https://gitlab.epfl.ch/desl/acdc-afe/-/settings/integrations)
 
 ## Collaborate with your team
 

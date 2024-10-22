@@ -1,0 +1,8 @@
+2017.11 - Battery Controller v0.14
+-------------------------------------
+
+- Modified the MODBUS reading/writting loops to make it more generic.
+- Now it can read some or all the available registers according to a (so far) hardly-coded array.
+- Created a new TypeDef (BMS) for the rack and modules quantities
+- Added reader/writer to communicate with the BMS through the Rapsberry PI monitoring using a JSON-formatted message
+- One can choose from both options (Modbus-BMS, Rpi-JSON) to read the values

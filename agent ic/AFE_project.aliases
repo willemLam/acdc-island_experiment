@@ -1,0 +1,14 @@
+[ELH010-AFE]
+ELH010-AFE = "192.168.1.20"
+
+[ELH010-DC-Agent]
+ELH010-DC-Agent = "192.168.1.20"
+
+[ELL-PVemulator]
+ELL-PVemulator = "192.168.1.73"
+
+[ELL040-BA]
+ELL040-BA = "192.168.1.12"
+
+[My Computer]
+My Computer = "128.178.46.54"

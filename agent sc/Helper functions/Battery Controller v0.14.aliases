@@ -1,0 +1,8 @@
+[ELL040-BA]
+ELL040-BA = "192.168.1.12"
+
+[My Computer]
+My Computer = "128.178.39.82"
+
+[RT CompactRIO Target]
+RT CompactRIO Target = "192.168.1.20"
